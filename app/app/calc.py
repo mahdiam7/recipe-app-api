@@ -5,6 +5,6 @@ calculator function
 
 def add(x, y):
     """
-    Add x and y 
+    Add x and y
     """
     return x+y
